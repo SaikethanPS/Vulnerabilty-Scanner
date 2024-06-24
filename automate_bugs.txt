@@ -1,0 +1,13 @@
+                                                           vulnerabilities to automate
+
+
+xss
+sql injection
+cors
+host header injection
+missing security header
+sensitive data found
+xxe
+rate limiting
+ssrf
+subdomain takeover
